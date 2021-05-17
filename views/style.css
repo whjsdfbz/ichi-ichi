@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Nunito&display=swap');
+.menubtn{
+    width:100%;
+    max-width: 50px;
+}
+.w1000{
+    max-width:1000px;
+    margin: 0 auto;
+}
+nav{
+    background-color:#ccc;
+    padding:20px 3%;
+}
+.banner{
+    position: relative;    
+}
+.banner-text{
+    position: absolute;
+    z-index: 1;
+    font-family: 'Nunito', sans-serif;
+    font-size: 2em;
+    font-weight: bold; 
+    color: white;
+    top: 50;
+    left: 50;
+}
+.video{
+    width: auto;    
+}
